@@ -4,6 +4,6 @@ return  $('p')
 }
 
 function lastImageSelector(){
-$('parent-tag child-tag:last-child')
-  return $('img.last')
+//$('parent-tag child-tag:last-child')
+  return $("img.last")
 }
