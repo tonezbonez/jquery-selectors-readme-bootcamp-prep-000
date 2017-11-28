@@ -5,5 +5,5 @@ return  $('p')
 
 function lastImageSelector(){
 //$('parent-tag child-tag:last-child')
-  return $("li.last")
+  return $("img:last")
 }
